@@ -1,0 +1,144 @@
+// 1. Import the initial variables
+@import "../sass/utilities/initial-variables"
+@import "../sass/utilities/functions"
+
+// 2. Set your own initial variables
+// Update blue
+$blue: #212721;
+$red: #FF3C00;
+$grey-dark: #909390;
+// Add colors and inverts
+$red-light: #FF3C00;
+$red-light-invert: #fff;
+$three-form: #ff9933;
+$three-form-invert: #fff;
+// Adjust Section padding
+$section-padding-medium: 7.875rem 1rem 15.3125rem;
+$body-line-height: 1.75rem;
+$navbar-box-shadow-size: 0 0 0 0;
+$navbar-box-shadow-color: transparent;
+$navbar-dropdown-boxed-shadow: 0 0px 8px rgba($black, 0.1), 0 0 0 1px rgba($black, 0.1);
+
+
+// 3. Set the derived variables
+// Use the new pink as the primary color
+$primary: $blue;
+$content-heading-color: $blue;
+
+
+// 4. Setup your Custom Colors 
+$three-form-invert: findColorInvert($three-form);
+$linkedin: #0077b5;
+$linkedin-invert: findColorInvert($linkedin);
+$twitter: #55acee;
+$twitter-invert: findColorInvert($twitter);
+$github: #333;
+$github-invert: findColorInvert($github); 
+$red: #A42028;
+$red-invert: findColorInvert($red);
+
+// 5. Add new color variables to the color map.
+@import "../sass/utilities/derived-variables"
+$addColors: ("twitter":($twitter, $twitter-invert), "linkedin": ($linkedin, $linkedin-invert), "github": ($github, $github-invert), "red": ($red, $red-invert), "red-light": ($red-light, $red-light-invert), "three-form": ($three-form, $three-form-invert));
+$colors: map-merge($colors, $addColors);
+
+// 5. Import the rest of Bulma
+@import "../bulma"
+
+// 6. Custom Styles
+$link-hover: $red-light
+
+
+/*Updated Styles*/
+html.has-navbar-fixed-top
+	padding-top: 5.25rem;
+
+body
+	font-size: 1.5rem;
+	font-family: 'IBM Plex Serif', serif;
+	color: $blue;
+
+.is-paddingless-top
+	padding-top: 0;
+
+.navbar
+	box-shadow: none;
+	font-weight: 300;
+	background: none;
+	font-size: 1.75rem;
+
+.navbar-menu .is-active
+	background-color: #ccc;
+
+.navbar-brand 
+	min-height: 5.25rem;
+	margin-left: 1.5rem;
+	h1
+		padding-top: 1.5rem;
+
+.navbar-burger
+	height: 5.25rem;
+	margin-right: 1rem;
+	&:hover, &:active
+		background-color: #fff;
+
+.navbar-end
+	margin-right: 1.5rem;
+
+.navbar-item
+	padding: 0 .5rem;
+
+.navbar-item img
+	max-height: 2rem;
+
+.is-active .navbar-end .navbar-item a
+	padding-left: 1rem;
+
+.is-smallcaps
+	letter-spacing: .1rem;
+	font-variant: small-caps;
+
+.featured
+	font-family: "IBM Plex Sans", sans-serif;
+	font-size: .625rem;
+	font-weight: 500;
+	letter-spacing: 2px;
+	line-height: 2rem;
+	padding-top: 1rem;
+	text-transform: uppercase
+
+.av-feature-title
+	font-weight: 200;
+	font-size: 3.5rem;
+	line-height: 3.5rem;
+
+.av-project-title
+	font-weight: 300;
+	font-size: 1.75rem;
+	line-height: 2rem;
+	padding-top: 1rem;
+
+.category
+	font-family: "IBM Plex Sans", sans-serif;
+	font-size: .625rem;
+	font-weight: 500;
+	letter-spacing: 2px;
+	line-height: 2rem;
+	text-transform: uppercase;
+
+.copyright
+	margin-top: 3rem;
+	padding-left: 1rem;
+
+.av-footer-link
+	padding-left: 1rem;
+	font-family: "IBM Plex Sans", sans-serif;
+	font-size: .625rem;
+	font-weight: 500;
+	letter-spacing: 2px;
+	line-height: 2rem;
+	text-transform: uppercase;
+
+
+.footer
+	padding-bottom: 1rem;
