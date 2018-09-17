@@ -9,6 +9,20 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
+	"\/about.textClipping": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about.textClipping",
+		"oF": 0
+		},
 	"\/bulma.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -1298,6 +1312,20 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/think.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/think.html",
+		"oF": 0
+		},
+	"\/work\/the-grand-america-hotel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work\/the-grand-america-hotel.html",
+		"oF": 0
 		}
 	},
 "hooks": [

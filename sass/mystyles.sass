@@ -20,6 +20,7 @@ $navbar-box-shadow-color: transparent;
 $navbar-dropdown-boxed-shadow: 0 0px 8px rgba($black, 0.1), 0 0 0 1px rgba($black, 0.1);
 
 
+
 // 3. Set the derived variables
 // Use the new pink as the primary color
 $primary: $blue;
@@ -49,6 +50,7 @@ $colors: map-merge($colors, $addColors);
 $link-hover: $red-light
 
 
+
 /*Updated Styles*/
 html.has-navbar-fixed-top
 	padding-top: 5.25rem;
@@ -57,6 +59,10 @@ body
 	font-size: 1.5rem;
 	font-family: 'IBM Plex Serif', serif;
 	color: $blue;
+	line-height: 2rem;
+
+.is-sans-serif
+	font-family: $family-sans-serif
 
 .is-paddingless-top
 	padding-top: 0;
@@ -66,6 +72,10 @@ body
 	font-weight: 300;
 	background: none;
 	font-size: 1.75rem;
+
+.navbar-menu
+	background: none;
+	box-shadow: none;
 
 .navbar-menu .is-active
 	background-color: #ccc;
@@ -118,6 +128,19 @@ body
 	line-height: 2rem;
 	padding-top: 1rem;
 
+.av-text, .av-text-follow
+	line-height: 1.5rem;
+
+.av-text-follow
+	padding-top: .75rem;
+
+.av-list
+	font-size: $size-6;
+	line-height: 1.5rem;
+	color: $grey-dark;
+	font-style: italic;
+	padding-bottom: 1rem;
+
 .category
 	font-family: "IBM Plex Sans", sans-serif;
 	font-size: .625rem;
@@ -125,6 +148,12 @@ body
 	letter-spacing: 2px;
 	line-height: 2rem;
 	text-transform: uppercase;
+
+.av-project
+	font-family: "IBM Plex Sans", sans-serif;
+	font-size: 1rem;
+	line-height: 2rem;
+	padding-right: 1rem;
 
 .copyright
 	margin-top: 3rem;
@@ -139,6 +168,6 @@ body
 	line-height: 2rem;
 	text-transform: uppercase;
 
-
 .footer
 	padding-bottom: 1rem;
+

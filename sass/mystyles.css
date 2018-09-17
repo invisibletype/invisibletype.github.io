@@ -262,7 +262,7 @@ button,
 input,
 select,
 textarea {
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 code,
 pre {
@@ -356,13 +356,13 @@ table th {
   overflow: hidden !important; }
 
 .is-size-1 {
-  font-size: 3rem !important; }
+  font-size: 3.5rem !important; }
 
 .is-size-2 {
   font-size: 2.5rem !important; }
 
 .is-size-3 {
-  font-size: 2rem !important; }
+  font-size: 1.75rem !important; }
 
 .is-size-4 {
   font-size: 1.5rem !important; }
@@ -378,11 +378,11 @@ table th {
 
 @media screen and (max-width: 768px) {
   .is-size-1-mobile {
-    font-size: 3rem !important; }
+    font-size: 3.5rem !important; }
   .is-size-2-mobile {
     font-size: 2.5rem !important; }
   .is-size-3-mobile {
-    font-size: 2rem !important; }
+    font-size: 1.75rem !important; }
   .is-size-4-mobile {
     font-size: 1.5rem !important; }
   .is-size-5-mobile {
@@ -394,11 +394,11 @@ table th {
 
 @media screen and (min-width: 769px), print {
   .is-size-1-tablet {
-    font-size: 3rem !important; }
+    font-size: 3.5rem !important; }
   .is-size-2-tablet {
     font-size: 2.5rem !important; }
   .is-size-3-tablet {
-    font-size: 2rem !important; }
+    font-size: 1.75rem !important; }
   .is-size-4-tablet {
     font-size: 1.5rem !important; }
   .is-size-5-tablet {
@@ -410,11 +410,11 @@ table th {
 
 @media screen and (max-width: 1087px) {
   .is-size-1-touch {
-    font-size: 3rem !important; }
+    font-size: 3.5rem !important; }
   .is-size-2-touch {
     font-size: 2.5rem !important; }
   .is-size-3-touch {
-    font-size: 2rem !important; }
+    font-size: 1.75rem !important; }
   .is-size-4-touch {
     font-size: 1.5rem !important; }
   .is-size-5-touch {
@@ -426,11 +426,11 @@ table th {
 
 @media screen and (min-width: 1088px) {
   .is-size-1-desktop {
-    font-size: 3rem !important; }
+    font-size: 3.5rem !important; }
   .is-size-2-desktop {
     font-size: 2.5rem !important; }
   .is-size-3-desktop {
-    font-size: 2rem !important; }
+    font-size: 1.75rem !important; }
   .is-size-4-desktop {
     font-size: 1.5rem !important; }
   .is-size-5-desktop {
@@ -442,11 +442,11 @@ table th {
 
 @media screen and (min-width: 1280px) {
   .is-size-1-widescreen {
-    font-size: 3rem !important; }
+    font-size: 3.5rem !important; }
   .is-size-2-widescreen {
     font-size: 2.5rem !important; }
   .is-size-3-widescreen {
-    font-size: 2rem !important; }
+    font-size: 1.75rem !important; }
   .is-size-4-widescreen {
     font-size: 1.5rem !important; }
   .is-size-5-widescreen {
@@ -458,11 +458,11 @@ table th {
 
 @media screen and (min-width: 1472px) {
   .is-size-1-fullhd {
-    font-size: 3rem !important; }
+    font-size: 3.5rem !important; }
   .is-size-2-fullhd {
     font-size: 2.5rem !important; }
   .is-size-3-fullhd {
-    font-size: 2rem !important; }
+    font-size: 1.75rem !important; }
   .is-size-4-fullhd {
     font-size: 1.5rem !important; }
   .is-size-5-fullhd {
@@ -4087,7 +4087,7 @@ a.tag:hover {
 
 .title {
   color: #363636;
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 600;
   line-height: 1.125; }
   .title strong {
@@ -4098,11 +4098,11 @@ a.tag:hover {
   .title:not(.is-spaced) + .subtitle {
     margin-top: -1.25rem; }
   .title.is-1 {
-    font-size: 3rem; }
+    font-size: 3.5rem; }
   .title.is-2 {
     font-size: 2.5rem; }
   .title.is-3 {
-    font-size: 2rem; }
+    font-size: 1.75rem; }
   .title.is-4 {
     font-size: 1.5rem; }
   .title.is-5 {
@@ -4123,11 +4123,11 @@ a.tag:hover {
   .subtitle:not(.is-spaced) + .title {
     margin-top: -1.25rem; }
   .subtitle.is-1 {
-    font-size: 3rem; }
+    font-size: 3.5rem; }
   .subtitle.is-2 {
     font-size: 2.5rem; }
   .subtitle.is-3 {
-    font-size: 2rem; }
+    font-size: 1.75rem; }
   .subtitle.is-4 {
     font-size: 1.5rem; }
   .subtitle.is-5 {
@@ -7676,7 +7676,11 @@ html.has-navbar-fixed-top {
 body {
   font-size: 1.5rem;
   font-family: 'IBM Plex Serif', serif;
-  color: #212721; }
+  color: #212721;
+  line-height: 2rem; }
+
+.is-sans-serif {
+  font-family: "IBM Plex Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 .is-paddingless-top {
   padding-top: 0; }
@@ -7686,6 +7690,10 @@ body {
   font-weight: 300;
   background: none;
   font-size: 1.75rem; }
+
+.navbar-menu {
+  background: none;
+  box-shadow: none; }
 
 .navbar-menu .is-active {
   background-color: #ccc; }
@@ -7738,6 +7746,19 @@ body {
   line-height: 2rem;
   padding-top: 1rem; }
 
+.av-text, .av-text-follow {
+  line-height: 1.5rem; }
+
+.av-text-follow {
+  padding-top: .75rem; }
+
+.av-list {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: #909390;
+  font-style: italic;
+  padding-bottom: 1rem; }
+
 .category {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: .625rem;
@@ -7745,6 +7766,12 @@ body {
   letter-spacing: 2px;
   line-height: 2rem;
   text-transform: uppercase; }
+
+.av-project {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 2rem;
+  padding-right: 1rem; }
 
 .copyright {
   margin-top: 3rem;
