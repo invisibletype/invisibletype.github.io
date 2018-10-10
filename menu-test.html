@@ -8,52 +8,31 @@
     <link rel="stylesheet" href="/sass/mystyles.css">
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400|IBM+Plex+Serif:200,300,300i" rel="stylesheet">
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
-    <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>    <script defer src="/js/site.js"></script>
+    <script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>    <script defer src="/js/site.js"></script>
   </head>
   <body>
 
 <!-- Navbar --> 
-  <nav class="navbar is-fixed-top">
     <div class="container">
-        <div class="navbar-brand">
-          <h1 class="featured is-hidden-tablet">ARLO VANCE</h1>
-        <div class="navbar-burger burger" data-target="navMenubd-example">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
+      <div class="menu-wrap">
+        <nav class="menu">
+          <div class="icon-list">
+            <a href="#">Think</a>
+            <a href="#">About</a>
+            <a href="#">Work</a>
+            <a href="#">& Play</a>
+          </div>
+        </nav>
       </div>
+      <button class="menu-button" id="open-button">Open Menu</button>
+      <div class="content-wrap">
+        <div class="content">
 
-      <div id="navMenubd-example" class="navbar-menu">
-        <div class="navbar-end">
-          <div class="navbar-item">
-            <a class="" href="../think.html">
-              Think
-            </a>
-          </div>
-          <div class="navbar-item">
-            <a class="" href="../about.html">
-              About
-            </a>
-          </div>
-          <div class="navbar-item">
-            <a class="" href="../work.html">
-              Work
-            </a>
-          </div>
-          <div class="navbar-item">
-            <a class="" href="../play.html">
-              &amp; Play
-            </a>
-          </div>
-        </div>
-
-      </div>
-        </div>
-    </nav>
 
 <!-- Content start -->
-<div class="container">
   <section class="section">
     <div class="columns">
       <div class="column is-2 is-hidden-mobile has-text-centered">
@@ -62,7 +41,7 @@
         </a>
       </div>
       <div class="column is-10">
-        <a class="av-project-thumb" href="work/the-grand-america-hotel.html">
+        <a href="work/the-grand-america-hotel.html">
           <div class="image"><img src="img/clients/the-grand-america-hotel/grand-america-web-feature.jpg"></div>
           <p class="featured">FEATURED</p>
           <p class="av-feature-title has-text-red-light">The Grand America Hotel</p>
@@ -75,28 +54,28 @@
       <div class="column is-10 is-offset-2">
         <div class="columns is-multiline">
         <div class="column is-6">
-          <a class="av-project-thumb" href="work/harvard-university.html">
+          <a href="work/harvard-university.html">
             <div class="image"><img src="img/clients/harvard-university/harvard-university-feature.jpg"></div>
             <p class="av-project-title">Harvard University</p>
             <p class="category">Design</p>
           </a>
         </div>
         <div class="column is-6">
-          <a class="av-project-thumb" href="work/cotopaxi-questival.html">
+          <a href="work/cotopaxi-questival.html">
             <div class="image"><img src="img/clients/cotopaxi-questival/cotopaxi-questival-feature.jpg"></div>
             <p class="av-project-title">Cotopaxi Questival</p>
             <p class="category">Branding, Design, Product</p>
           </a>
         </div>
         <div class="column is-half">
-          <a class="av-project-thumb" href="work/fender-guitars.html">
+          <a href="work/fender-guitars.html">
             <div class="image"><img src="img/clients/fender-guitars/fender-guitars-feature.jpg"></div>
             <p class="av-project-title">Fender Guitars</p>
             <p class="category">Design</p>
           </a>
         </div>
         <div class="column is-half">
-          <a class="av-project-thumb" href="work/remity.html">
+          <a href="work/remity.html">
             <div class="image"><img src="img/clients/remity/remity-feature.jpg"></div>
             <p class="av-project-title">Remity</p>
             <p class="category">Branding, Design</p>
@@ -107,6 +86,9 @@
     </div>
   </section>
 </div>
+        </div>
+      </div><!-- /content-wrap -->
+
 
 <footer class="footer">
   <div class="container">

@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,23 +7,23 @@
 		"uuidString": "941D8E29-4E79-4892-ABC3-069FAD25A65B"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "28901",
 "files": {
-	"\/about.html": {
+	"/about.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/about.html",
+		"oAP": "/about.html",
 		"oF": 0
 		},
-	"\/about.textClipping": {
+	"/about.textClipping": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/about.textClipping",
+		"oAP": "/about.textClipping",
 		"oF": 0
 		},
-	"\/bulma.sass": {
+	"/bulma.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -31,12 +31,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bulma.css",
+		"oAP": "/bulma.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/CHANGELOG.md": {
+	"/CHANGELOG.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -45,7 +45,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/CHANGELOG.html",
+		"oAP": "/CHANGELOG.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -54,640 +54,745 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/css\/bulma.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/bulma-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/css\/bulma.css.map": {
+	"/client-list.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/css\/bulma.css.map",
+		"oAP": "/client-list.html",
 		"oF": 0
 		},
-	"\/css\/bulma.min.css": {
+	"/colophon.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/colophon.html",
+		"oF": 0
+		},
+	"/css/bulma.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bulma.min-min.css",
+		"oAP": "/css/bulma-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/img\/arlo-vance-logo-white.svg": {
+	"/css/bulma.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/css/bulma.css.map",
+		"oF": 0
+		},
+	"/css/bulma.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bulma.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/img/arlo-vance-logo-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/arlo-vance-logo-white.svg",
+		"oAP": "/img/arlo-vance-logo-white.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/arlo-vance-logo.svg": {
+	"/img/arlo-vance-logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/arlo-vance-logo.svg",
+		"oAP": "/img/arlo-vance-logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/clients\/aiga\/aiga-2009-covers.jpg": {
+	"/img/clients/aiga/aiga-2009-covers.jpg": {
 		"ft": 16384,
 		"iS": 123965,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/aiga\/aiga-2009-covers.jpg",
+		"oAP": "/img/clients/aiga/aiga-2009-covers.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/aiga\/aiga-2009-detail.jpg": {
+	"/img/clients/aiga/aiga-2009-detail.jpg": {
 		"ft": 16384,
 		"iS": 67426,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/aiga\/aiga-2009-detail.jpg",
+		"oAP": "/img/clients/aiga/aiga-2009-detail.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/aiga\/aiga-2009-entry.jpg": {
+	"/img/clients/aiga/aiga-2009-entry.jpg": {
 		"ft": 16384,
 		"iS": 83702,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/aiga\/aiga-2009-entry.jpg",
+		"oAP": "/img/clients/aiga/aiga-2009-entry.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/aiga\/aiga-2009-ingots.jpg": {
+	"/img/clients/aiga/aiga-2009-ingots.jpg": {
 		"ft": 16384,
 		"iS": 74158,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/aiga\/aiga-2009-ingots.jpg",
+		"oAP": "/img/clients/aiga/aiga-2009-ingots.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/aiga\/aiga-2009-slipcover.jpg": {
+	"/img/clients/aiga/aiga-2009-slipcover.jpg": {
 		"ft": 16384,
 		"iS": 100733,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/aiga\/aiga-2009-slipcover.jpg",
+		"oAP": "/img/clients/aiga/aiga-2009-slipcover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/aiga\/aiga-2009-thumb.jpg": {
+	"/img/clients/aiga/aiga-2009-thumb.jpg": {
 		"ft": 16384,
 		"iS": 120126,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/aiga\/aiga-2009-thumb.jpg",
+		"oAP": "/img/clients/aiga/aiga-2009-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-app-web-social.jpg": {
+	"/img/clients/cotopaxi-questival/cotopaxi-questival-app-web-social.jpg": {
 		"ft": 16384,
 		"iS": 235774,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-app-web-social.jpg",
+		"oAP": "/img/clients/cotopaxi-questival/cotopaxi-questival-app-web-social.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-feature.jpg": {
+	"/img/clients/cotopaxi-questival/cotopaxi-questival-feature.jpg": {
 		"ft": 16384,
 		"iS": 234481,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-feature.jpg",
+		"oAP": "/img/clients/cotopaxi-questival/cotopaxi-questival-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-mask.jpg": {
+	"/img/clients/cotopaxi-questival/cotopaxi-questival-group-mask.jpg": {
 		"ft": 16384,
 		"iS": 328092,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-mask.jpg",
+		"oAP": "/img/clients/cotopaxi-questival/cotopaxi-questival-group-mask.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-stage.jpg": {
+	"/img/clients/cotopaxi-questival/cotopaxi-questival-group-stage.jpg": {
 		"ft": 16384,
 		"iS": 328562,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-stage.jpg",
+		"oAP": "/img/clients/cotopaxi-questival/cotopaxi-questival-group-stage.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-1.svg": {
+	"/img/clients/cotopaxi-questival/cotopaxi-questival-logo-1.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-1.svg",
+		"oAP": "/img/clients/cotopaxi-questival/cotopaxi-questival-logo-1.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-2.svg": {
+	"/img/clients/cotopaxi-questival/cotopaxi-questival-logo-2.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-2.svg",
+		"oAP": "/img/clients/cotopaxi-questival/cotopaxi-questival-logo-2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-1.jpg": {
+	"/img/clients/dc-shoes/dc-shoes-pj-ladd-cards-1.jpg": {
 		"ft": 16384,
 		"iS": 104354,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-1.jpg",
+		"oAP": "/img/clients/dc-shoes/dc-shoes-pj-ladd-cards-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-2.jpg": {
+	"/img/clients/dc-shoes/dc-shoes-pj-ladd-cards-2.jpg": {
 		"ft": 16384,
 		"iS": 78102,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-2.jpg",
+		"oAP": "/img/clients/dc-shoes/dc-shoes-pj-ladd-cards-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-3.jpg": {
+	"/img/clients/dc-shoes/dc-shoes-pj-ladd-cards-3.jpg": {
 		"ft": 16384,
 		"iS": 69524,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-3.jpg",
+		"oAP": "/img/clients/dc-shoes/dc-shoes-pj-ladd-cards-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-feature.jpg": {
+	"/img/clients/dc-shoes/dc-shoes-pj-ladd-feature.jpg": {
 		"ft": 16384,
 		"iS": 83161,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-feature.jpg",
+		"oAP": "/img/clients/dc-shoes/dc-shoes-pj-ladd-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-thumb.jpg": {
+	"/img/clients/dc-shoes/dc-shoes-pj-ladd-thumb.jpg": {
 		"ft": 16384,
 		"iS": 41104,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-thumb.jpg",
+		"oAP": "/img/clients/dc-shoes/dc-shoes-pj-ladd-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/epicure\/epicure-packaging-family.jpg": {
+	"/img/clients/epicure/epicure-packaging-family.jpg": {
 		"ft": 16384,
 		"iS": 138636,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/epicure\/epicure-packaging-family.jpg",
+		"oAP": "/img/clients/epicure/epicure-packaging-family.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/epicure\/epicure-thumb.jpg": {
+	"/img/clients/epicure/epicure-thumb.jpg": {
 		"ft": 16384,
 		"iS": 184201,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/epicure\/epicure-thumb.jpg",
+		"oAP": "/img/clients/epicure/epicure-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/epicure\/epicure-web-home.jpg": {
+	"/img/clients/epicure/epicure-web-home.jpg": {
 		"ft": 16384,
 		"iS": 181357,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/epicure\/epicure-web-home.jpg",
+		"oAP": "/img/clients/epicure/epicure-web-home.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-ad-single.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-ad-single.jpg": {
 		"ft": 16384,
 		"iS": 116553,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-ad-single.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-ad-single.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-ad-spread.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-ad-spread.jpg": {
 		"ft": 16384,
 		"iS": 172105,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-ad-spread.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-ad-spread.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-book-cover.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-book-cover.jpg": {
 		"ft": 16384,
 		"iS": 100472,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-book-cover.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-book-cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-book-guts.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-book-guts.jpg": {
 		"ft": 16384,
 		"iS": 817876,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-book-guts.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-book-guts.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-feature.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-feature.jpg": {
 		"ft": 16384,
 		"iS": 182570,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-feature.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-social.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-social.jpg": {
 		"ft": 16384,
 		"iS": 141517,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-social.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-social.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/fender-guitars\/fender-guitars-web.jpg": {
+	"/img/clients/fender-guitars/fender-guitars-web.jpg": {
 		"ft": 16384,
 		"iS": 120507,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-web.jpg",
+		"oAP": "/img/clients/fender-guitars/fender-guitars-web.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/harvard-university\/harvard-university-case-books.jpg": {
+	"/img/clients/harvard-university/harvard-university-case-books.jpg": {
 		"ft": 16384,
 		"iS": 1128512,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/harvard-university\/harvard-university-case-books.jpg",
+		"oAP": "/img/clients/harvard-university/harvard-university-case-books.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/harvard-university\/harvard-university-feature.jpg": {
+	"/img/clients/harvard-university/harvard-university-feature.jpg": {
 		"ft": 16384,
 		"iS": 182877,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/harvard-university\/harvard-university-feature.jpg",
+		"oAP": "/img/clients/harvard-university/harvard-university-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-booklet.jpg": {
+	"/img/clients/remity/remity-booklet.jpg": {
 		"ft": 16384,
 		"iS": 368695,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-booklet.jpg",
+		"oAP": "/img/clients/remity/remity-booklet.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-feature.jpg": {
+	"/img/clients/remity/remity-feature.jpg": {
 		"ft": 16384,
 		"iS": 174032,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-feature.jpg",
+		"oAP": "/img/clients/remity/remity-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-logo.jpg": {
+	"/img/clients/remity/remity-logo.jpg": {
 		"ft": 16384,
 		"iS": 26157,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-logo.jpg",
+		"oAP": "/img/clients/remity/remity-logo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-packaging-bottles.jpg": {
+	"/img/clients/remity/remity-packaging-bottles.jpg": {
 		"ft": 16384,
 		"iS": 68855,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-packaging-bottles.jpg",
+		"oAP": "/img/clients/remity/remity-packaging-bottles.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-packaging-box-open.jpg": {
+	"/img/clients/remity/remity-packaging-box-open.jpg": {
 		"ft": 16384,
 		"iS": 162127,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-packaging-box-open.jpg",
+		"oAP": "/img/clients/remity/remity-packaging-box-open.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-packaging-boxes.jpg": {
+	"/img/clients/remity/remity-packaging-boxes.jpg": {
 		"ft": 16384,
 		"iS": 58925,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-packaging-boxes.jpg",
+		"oAP": "/img/clients/remity/remity-packaging-boxes.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-packaging-sachets.jpg": {
+	"/img/clients/remity/remity-packaging-sachets.jpg": {
 		"ft": 16384,
 		"iS": 165673,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-packaging-sachets.jpg",
+		"oAP": "/img/clients/remity/remity-packaging-sachets.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-stationery.jpg": {
+	"/img/clients/remity/remity-stationery.jpg": {
 		"ft": 16384,
 		"iS": 32251,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-stationery.jpg",
+		"oAP": "/img/clients/remity/remity-stationery.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-web-home.jpg": {
+	"/img/clients/remity/remity-web-home.jpg": {
 		"ft": 16384,
 		"iS": 234571,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-web-home.jpg",
+		"oAP": "/img/clients/remity/remity-web-home.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/remity\/remity-web-products.jpg": {
+	"/img/clients/remity/remity-web-products.jpg": {
 		"ft": 16384,
 		"iS": 219768,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/remity\/remity-web-products.jpg",
+		"oAP": "/img/clients/remity/remity-web-products.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-feature.jpg": {
+	"/img/clients/the-grand-america-hotel/grand-america-web-feature.jpg": {
 		"ft": 16384,
 		"iS": 306961,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-feature.jpg",
+		"oAP": "/img/clients/the-grand-america-hotel/grand-america-web-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-home.jpg": {
+	"/img/clients/the-grand-america-hotel/grand-america-web-home.jpg": {
 		"ft": 16384,
 		"iS": 613683,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-home.jpg",
+		"oAP": "/img/clients/the-grand-america-hotel/grand-america-web-home.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-interior.jpg": {
+	"/img/clients/the-grand-america-hotel/grand-america-web-interior.jpg": {
 		"ft": 16384,
 		"iS": 302464,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-interior.jpg",
+		"oAP": "/img/clients/the-grand-america-hotel/grand-america-web-interior.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-responses.jpg": {
+	"/img/clients/the-grand-america-hotel/grand-america-web-responses.jpg": {
 		"ft": 16384,
 		"iS": 892038,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-responses.jpg",
+		"oAP": "/img/clients/the-grand-america-hotel/grand-america-web-responses.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/clients\/verizon\/verizon-illustrations-car.svg": {
+	"/img/clients/verizon/verizon-illustrations-car.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-car.svg",
+		"oAP": "/img/clients/verizon/verizon-illustrations-car.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/clients\/verizon\/verizon-illustrations-octopus.svg": {
+	"/img/clients/verizon/verizon-illustrations-octopus.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-octopus.svg",
+		"oAP": "/img/clients/verizon/verizon-illustrations-octopus.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/clients\/verizon\/verizon-illustrations-thumb.svg": {
+	"/img/clients/verizon/verizon-illustrations-thumb.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-thumb.svg",
+		"oAP": "/img/clients/verizon/verizon-illustrations-thumb.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/clients\/verizon\/verizon-illustrations-trio.svg": {
+	"/img/clients/verizon/verizon-illustrations-trio.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-trio.svg",
+		"oAP": "/img/clients/verizon/verizon-illustrations-trio.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/play\/elements.jpg": {
+	"/img/clients/you-and-yours/You-and-yours-work.png": {
+		"ft": 32768,
+		"iS": 355051,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/You-and-yours-work.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/you-and-yours/You-yours-1.jpg": {
+		"ft": 16384,
+		"iS": 110615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/You-yours-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/you-and-yours/You-yours-2.jpg": {
+		"ft": 16384,
+		"iS": 514236,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/You-yours-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/you-and-yours/you-yours-3.jpg": {
+		"ft": 16384,
+		"iS": 494419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/you-yours-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/you-and-yours/you-yours-4.jpg": {
+		"ft": 16384,
+		"iS": 108249,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/you-yours-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/you-and-yours/You-yours-5.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/You-yours-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/you-and-yours/You-yours-6.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/you-and-yours/You-yours-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/play/elements.jpg": {
 		"ft": 16384,
 		"iS": 77609,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/play\/elements.jpg",
+		"oAP": "/img/play/elements.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/play\/laid-lines.jpg": {
+	"/img/play/laid-lines.jpg": {
 		"ft": 16384,
 		"iS": 46736,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/play\/laid-lines.jpg",
+		"oAP": "/img/play/laid-lines.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/play\/platonic-solids.jpg": {
+	"/img/play/platonic-solids.jpg": {
 		"ft": 16384,
 		"iS": 98099,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/play\/platonic-solids.jpg",
+		"oAP": "/img/play/platonic-solids.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/js\/site-min.js": {
+	"/js/site-min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/site-min-min.js",
+		"oAP": "/js/site-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/site.js": {
+	"/js/site.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/site-min.js",
+		"oAP": "/js/site-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/LICENSE": {
+	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/LICENSE",
+		"oAP": "/LICENSE",
 		"oF": 0
 		},
-	"\/package.json": {
+	"/menu-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/menu-test.html",
+		"oF": 0
+		},
+	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/package-min.json",
+		"oAP": "/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/README.md": {
+	"/play.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/play.html",
+		"oF": 0
+		},
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -696,7 +801,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -705,7 +810,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/sass\/base\/_all.sass": {
+	"/sass/base/_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -713,12 +818,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/base\/_all.css",
+		"oAP": "/sass/base/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/base\/generic.sass": {
+	"/sass/base/generic.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -726,12 +831,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/base\/generic.css",
+		"oAP": "/sass/base/generic.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/base\/helpers.sass": {
+	"/sass/base/helpers.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -739,12 +844,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/base\/helpers.css",
+		"oAP": "/sass/base/helpers.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/base\/minireset.sass": {
+	"/sass/base/minireset.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -752,12 +857,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/base\/minireset.css",
+		"oAP": "/sass/base/minireset.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_all.sass": {
+	"/sass/components/_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -765,12 +870,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_all.css",
+		"oAP": "/sass/components/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/breadcrumb.sass": {
+	"/sass/components/breadcrumb.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -778,12 +883,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/breadcrumb.css",
+		"oAP": "/sass/components/breadcrumb.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/card.sass": {
+	"/sass/components/card.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -791,12 +896,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/card.css",
+		"oAP": "/sass/components/card.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/dropdown.sass": {
+	"/sass/components/dropdown.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -804,12 +909,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/dropdown.css",
+		"oAP": "/sass/components/dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/level.sass": {
+	"/sass/components/level.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -817,12 +922,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/level.css",
+		"oAP": "/sass/components/level.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/media.sass": {
+	"/sass/components/media.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -830,12 +935,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/media.css",
+		"oAP": "/sass/components/media.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/menu.sass": {
+	"/sass/components/menu.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -843,12 +948,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/menu.css",
+		"oAP": "/sass/components/menu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/message.sass": {
+	"/sass/components/message.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -856,12 +961,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/message.css",
+		"oAP": "/sass/components/message.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/modal.sass": {
+	"/sass/components/modal.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -869,12 +974,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/modal.css",
+		"oAP": "/sass/components/modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/navbar.sass": {
+	"/sass/components/navbar.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -882,12 +987,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/navbar.css",
+		"oAP": "/sass/components/navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/pagination.sass": {
+	"/sass/components/pagination.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -895,12 +1000,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/pagination.css",
+		"oAP": "/sass/components/pagination.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/panel.sass": {
+	"/sass/components/panel.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -908,12 +1013,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/panel.css",
+		"oAP": "/sass/components/panel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/tabs.sass": {
+	"/sass/components/tabs.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -921,12 +1026,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/tabs.css",
+		"oAP": "/sass/components/tabs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/_all.sass": {
+	"/sass/elements/_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -934,12 +1039,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/_all.css",
+		"oAP": "/sass/elements/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/box.sass": {
+	"/sass/elements/box.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -947,12 +1052,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/box.css",
+		"oAP": "/sass/elements/box.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/button.sass": {
+	"/sass/elements/button.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -960,12 +1065,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/button.css",
+		"oAP": "/sass/elements/button.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/container.sass": {
+	"/sass/elements/container.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -973,12 +1078,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/container.css",
+		"oAP": "/sass/elements/container.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/content.sass": {
+	"/sass/elements/content.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -986,12 +1091,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/content.css",
+		"oAP": "/sass/elements/content.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/form.sass": {
+	"/sass/elements/form.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -999,12 +1104,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/form.css",
+		"oAP": "/sass/elements/form.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/icon.sass": {
+	"/sass/elements/icon.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1012,12 +1117,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/icon.css",
+		"oAP": "/sass/elements/icon.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/image.sass": {
+	"/sass/elements/image.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1025,12 +1130,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/image.css",
+		"oAP": "/sass/elements/image.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/notification.sass": {
+	"/sass/elements/notification.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1038,12 +1143,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/notification.css",
+		"oAP": "/sass/elements/notification.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/other.sass": {
+	"/sass/elements/other.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1051,12 +1156,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/other.css",
+		"oAP": "/sass/elements/other.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/progress.sass": {
+	"/sass/elements/progress.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1064,12 +1169,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/progress.css",
+		"oAP": "/sass/elements/progress.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/table.sass": {
+	"/sass/elements/table.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1077,12 +1182,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/table.css",
+		"oAP": "/sass/elements/table.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/tag.sass": {
+	"/sass/elements/tag.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1090,12 +1195,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/tag.css",
+		"oAP": "/sass/elements/tag.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/elements\/title.sass": {
+	"/sass/elements/title.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1103,12 +1208,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/elements\/title.css",
+		"oAP": "/sass/elements/title.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/grid\/_all.sass": {
+	"/sass/grid/_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1116,12 +1221,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/grid\/_all.css",
+		"oAP": "/sass/grid/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/grid\/columns.sass": {
+	"/sass/grid/columns.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1129,12 +1234,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/grid\/columns.css",
+		"oAP": "/sass/grid/columns.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/grid\/tiles.sass": {
+	"/sass/grid/tiles.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1142,12 +1247,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/grid\/tiles.css",
+		"oAP": "/sass/grid/tiles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/layout\/_all.sass": {
+	"/sass/layout/_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1155,12 +1260,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/layout\/_all.css",
+		"oAP": "/sass/layout/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/layout\/footer.sass": {
+	"/sass/layout/footer.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1168,12 +1273,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/layout\/footer.css",
+		"oAP": "/sass/layout/footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/layout\/hero.sass": {
+	"/sass/layout/hero.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1181,12 +1286,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/layout\/hero.css",
+		"oAP": "/sass/layout/hero.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/layout\/section.sass": {
+	"/sass/layout/section.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1194,22 +1299,22 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/layout\/section.css",
+		"oAP": "/sass/layout/section.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/mystyles.css": {
+	"/sass/mystyles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/sass\/mystyles-min.css",
+		"oAP": "/sass/mystyles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/sass\/mystyles.sass": {
+	"/sass/mystyles.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1217,12 +1322,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/sass\/mystyles.css",
+		"oAP": "/sass/mystyles.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/_all.sass": {
+	"/sass/utilities/_all.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1230,12 +1335,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/_all.css",
+		"oAP": "/sass/utilities/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/animations.sass": {
+	"/sass/utilities/animations.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1243,12 +1348,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/animations.css",
+		"oAP": "/sass/utilities/animations.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/controls.sass": {
+	"/sass/utilities/controls.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1256,12 +1361,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/controls.css",
+		"oAP": "/sass/utilities/controls.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/derived-variables.sass": {
+	"/sass/utilities/derived-variables.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1269,12 +1374,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/derived-variables.css",
+		"oAP": "/sass/utilities/derived-variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/functions.sass": {
+	"/sass/utilities/functions.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1282,12 +1387,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/functions.css",
+		"oAP": "/sass/utilities/functions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/initial-variables.sass": {
+	"/sass/utilities/initial-variables.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1295,12 +1400,12 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/initial-variables.css",
+		"oAP": "/sass/utilities/initial-variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/utilities\/mixins.sass": {
+	"/sass/utilities/mixins.sass": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1308,23 +1413,58 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/utilities\/mixins.css",
+		"oAP": "/sass/utilities/mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/think.html": {
+	"/think.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/think.html",
+		"oAP": "/think.html",
 		"oF": 0
 		},
-	"\/work\/the-grand-america-hotel.html": {
+	"/think/active-passive.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/work\/the-grand-america-hotel.html",
+		"oAP": "/think/active-passive.html",
+		"oF": 0
+		},
+	"/think/qualitism.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/think/qualitism.html",
+		"oF": 0
+		},
+	"/work.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work.html",
+		"oF": 0
+		},
+	"/work/so-good.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/so-good.html",
+		"oF": 0
+		},
+	"/work/the-grand-america-hotel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/the-grand-america-hotel.html",
+		"oF": 0
+		},
+	"/work/you-and-yours-distilling.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/you-and-yours-distilling.html",
 		"oF": 0
 		}
 	},
@@ -1344,141 +1484,94 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -1490,7 +1583,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -1502,7 +1616,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -1538,53 +1670,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -1593,6 +1718,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -1950,6 +2076,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -1961,6 +2091,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -2006,6 +2140,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -2024,10 +2162,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -2226,9 +2360,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -2582,6 +2720,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -2610,6 +2752,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -2617,6 +2763,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -2672,7 +2822,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -2732,7 +2882,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3127,7 +3277,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -3146,7 +3295,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -3178,19 +3327,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -3246,7 +3395,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3275,7 +3424,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3299,36 +3448,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3336,11 +3519,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3364,6 +3547,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -3380,7 +3567,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3388,20 +3583,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -3416,6 +3623,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -3424,12 +3639,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -3440,11 +3663,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3456,23 +3687,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3484,9 +3743,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
