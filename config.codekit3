@@ -7,7 +7,7 @@
 		"uuidString": "941D8E29-4E79-4892-ABC3-069FAD25A65B"
 		}
 	],
-"creatorBuild": "28901",
+"creatorBuild": "28905",
 "files": {
 	"/about.html": {
 		"cB": 0,
@@ -300,6 +300,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/clients/dignity-health/dignity-health-web-home.jpg": {
+		"ft": 16384,
+		"iS": 107774,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/dignity-health/dignity-health-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/clients/epicure/epicure-packaging-family.jpg": {
 		"ft": 16384,
 		"iS": 138636,
@@ -328,6 +339,50 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/clients/epicure/epicure-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/fender-guitars/fender-custom-shop-1.jpg": {
+		"ft": 16384,
+		"iS": 440646,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/fender-guitars/fender-custom-shop-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/fender-guitars/fender-custom-shop-2.jpg": {
+		"ft": 16384,
+		"iS": 897126,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/fender-guitars/fender-custom-shop-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/fender-guitars/fender-custom-shop-3.jpg": {
+		"ft": 16384,
+		"iS": 3902497,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/fender-guitars/fender-custom-shop-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/fender-guitars/fender-custom-thumb.jpg": {
+		"ft": 16384,
+		"iS": 155875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/fender-guitars/fender-custom-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -427,6 +482,215 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/clients/harvard-university/harvard-university-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/i-line/i-line-logo.jpg": {
+		"ft": 16384,
+		"iS": 80812,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/i-line/i-line-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/clients/i-line/i-line-packaging.jpg": {
+		"ft": 16384,
+		"iS": 688785,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/i-line/i-line-packaging.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/i-line/i-line-thumb.jpg": {
+		"ft": 16384,
+		"iS": 28615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/i-line/i-line-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/intel/intel-iot-context-1.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/intel/intel-iot-context-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/intel/intel-iot-elements-1.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/intel/intel-iot-elements-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/clients/intel/intel-iot-elements-2.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/intel/intel-iot-elements-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/clients/intel/intel-iot-overview-2.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/intel/intel-iot-overview-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/intel/intel-iot-overview.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/intel/intel-iot-overview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/intel/intel-iot-thumb.jpg": {
+		"ft": 16384,
+		"iS": 30000,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/intel/intel-iot-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/clients/lomm/lomm-stationery-1.jpg": {
+		"ft": 16384,
+		"iS": 1400068,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/lomm/lomm-stationery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/lomm/lomm-stationery-2.jpg": {
+		"ft": 16384,
+		"iS": 930048,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/lomm/lomm-stationery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/lomm/lomm-stationery-3.jpg": {
+		"ft": 16384,
+		"iS": 787999,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/lomm/lomm-stationery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/lomm/lomm-thumb.jpg": {
+		"ft": 16384,
+		"iS": 259473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/lomm/lomm-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/clients/ore/ore-catalog-2014-1.jpg": {
+		"ft": 16384,
+		"iS": 549608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/ore/ore-catalog-2014-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/ore/ore-catalog-2014-2.jpg": {
+		"ft": 16384,
+		"iS": 364610,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/ore/ore-catalog-2014-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/ore/ore-catalog-2014-3.jpg": {
+		"ft": 16384,
+		"iS": 2086965,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/ore/ore-catalog-2014-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/ore/ore-catalog-2015-1.jpg": {
+		"ft": 16384,
+		"iS": 872070,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/ore/ore-catalog-2015-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/ore/ore-catalog-2015-2.jpg": {
+		"ft": 16384,
+		"iS": 5292528,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/ore/ore-catalog-2015-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/ore/ore-thumb.jpg": {
+		"ft": 16384,
+		"iS": 142662,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/ore/ore-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -542,6 +806,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/clients/so-good/so-good-packaging-1.jpg": {
+		"ft": 16384,
+		"iS": 736592,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/so-good/so-good-packaging-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/so-good/so-good-packaging-2.jpg": {
+		"ft": 16384,
+		"iS": 463882,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/so-good/so-good-packaging-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/so-good/so-good-thumb.jpg": {
+		"ft": 16384,
+		"iS": 217634,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/so-good/so-good-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/clients/the-grand-america-hotel/grand-america-web-feature.jpg": {
 		"ft": 16384,
 		"iS": 306961,
@@ -584,6 +881,39 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/united-way-toronto/united-way-toronto-thumb.jpg": {
+		"ft": 16384,
+		"iS": 38824,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/united-way-toronto/united-way-toronto-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/united-way-toronto/united-way-toronto-web-donate.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/united-way-toronto/united-way-toronto-web-donate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/clients/united-way-toronto/united-way-toronto-web-home.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/united-way-toronto/united-way-toronto-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/clients/verizon/verizon-illustrations-car.svg": {
@@ -736,6 +1066,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/think/Active-Passive.jpg": {
+		"ft": 16384,
+		"iS": 39664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/think/Active-Passive.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/think/Qualitism.jpg": {
+		"ft": 16384,
+		"iS": 22532,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/think/Qualitism.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -790,6 +1142,27 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/play.html",
+		"oF": 0
+		},
+	"/play/elements.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/play/elements.html",
+		"oF": 0
+		},
+	"/play/laid-lines.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/play/laid-lines.html",
+		"oF": 0
+		},
+	"/play/platonic-solids.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/play/platonic-solids.html",
 		"oF": 0
 		},
 	"/README.md": {
@@ -1446,6 +1819,97 @@
 		"oAP": "/work.html",
 		"oF": 0
 		},
+	"/work/aiga-100-show-09.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/aiga-100-show-09.html",
+		"oF": 0
+		},
+	"/work/cotopaxi-questival.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/cotopaxi-questival.html",
+		"oF": 0
+		},
+	"/work/dc-Shoes.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/dc-Shoes.html",
+		"oF": 0
+		},
+	"/work/dignity-health.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/dignity-health.html",
+		"oF": 0
+		},
+	"/work/epicure.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/epicure.html",
+		"oF": 0
+		},
+	"/work/fender-custom-shop.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/fender-custom-shop.html",
+		"oF": 0
+		},
+	"/work/fender-guitars.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/fender-guitars.html",
+		"oF": 0
+		},
+	"/work/harvard-university.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/harvard-university.html",
+		"oF": 0
+		},
+	"/work/i-line.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/i-line.html",
+		"oF": 0
+		},
+	"/work/intel.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/intel.html",
+		"oF": 0
+		},
+	"/work/lomm.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/lomm.html",
+		"oF": 0
+		},
+	"/work/ore.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/ore.html",
+		"oF": 0
+		},
+	"/work/remity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/remity.html",
+		"oF": 0
+		},
 	"/work/so-good.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1458,6 +1922,20 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/work/the-grand-america-hotel.html",
+		"oF": 0
+		},
+	"/work/united-way-toronto.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/united-way-toronto.html",
+		"oF": 0
+		},
+	"/work/verizon-wireless.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/verizon-wireless.html",
 		"oF": 0
 		},
 	"/work/you-and-yours-distilling.html": {

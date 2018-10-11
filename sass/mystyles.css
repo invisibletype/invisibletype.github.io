@@ -7776,6 +7776,9 @@ body {
   line-height: 2rem;
   padding-right: 1rem; }
 
+.av-project-thumb .image {
+  border: 1px solid #eeefff; }
+
 .av-project-thumb:hover img {
   border-bottom: 2px solid #FF3C00;
   margin-bottom: -2px; }
