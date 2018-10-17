@@ -181,6 +181,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/clients/backcountry/backcountry-giftcard-1.jpg": {
+		"ft": 16384,
+		"iS": 326347,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/backcountry/backcountry-giftcard-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/backcountry/backcountry-giftcard-2.jpg": {
+		"ft": 16384,
+		"iS": 532539,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/backcountry/backcountry-giftcard-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/backcountry/backcountry-giftcard-3.jpg": {
+		"ft": 16384,
+		"iS": 74749,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/backcountry/backcountry-giftcard-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/clients/backcountry/backcountry-thumb.jpg": {
+		"ft": 16384,
+		"iS": 65159,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/clients/backcountry/backcountry-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/clients/cotopaxi-questival/cotopaxi-questival-app-web-social.jpg": {
 		"ft": 16384,
 		"iS": 235774,
@@ -585,6 +629,36 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
+		},
+	"/img/clients/invisible-type/nika-feature.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/clients/invisible-type/nika-feature.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/clients/invisible-type/sylph-sans-feature.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/clients/invisible-type/sylph-sans-feature.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/clients/invisible-type/tribune-feature.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/clients/invisible-type/tribune-feature.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/clients/lomm/lomm-stationery-1.jpg": {
 		"ft": 16384,
@@ -2007,6 +2081,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/work/aiga-100-show-09.html",
+		"oF": 0
+		},
+	"/work/backcountry.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/work/backcountry.html",
 		"oF": 0
 		},
 	"/work/cotopaxi-questival.html": {
