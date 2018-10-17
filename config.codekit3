@@ -1250,7 +1250,7 @@
 		"oAP": "/img/think/Active-Passive.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/think/Qualitism.jpg": {
@@ -1261,7 +1261,7 @@
 		"oAP": "/img/think/Qualitism.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/index.html": {
