@@ -1190,8 +1190,8 @@
 		"oA": 0,
 		"oAP": "/img/clients/you-and-yours/You-and-yours-work.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1203,7 +1203,7 @@
 		"oAP": "/img/clients/you-and-yours/You-yours-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/clients/you-and-yours/You-yours-2.jpg": {
@@ -1214,7 +1214,7 @@
 		"oAP": "/img/clients/you-and-yours/You-yours-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/clients/you-and-yours/you-yours-3.jpg": {
@@ -1247,7 +1247,7 @@
 		"oAP": "/img/clients/you-and-yours/You-yours-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/clients/you-and-yours/You-yours-6.jpg": {
@@ -1258,7 +1258,7 @@
 		"oAP": "/img/clients/you-and-yours/You-yours-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/play/36-days-of-type-thumb.jpg": {
