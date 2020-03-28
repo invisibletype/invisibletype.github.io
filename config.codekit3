@@ -7,11 +7,12 @@
 		"uuidString": "941D8E29-4E79-4892-ABC3-069FAD25A65B"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "31934",
 "files": {
 	"/about.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/about.html",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/about.textClipping": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/about.textClipping",
 		"oF": 0
@@ -44,6 +46,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/CHANGELOG.html",
 		"oF": 0,
@@ -57,6 +60,7 @@
 	"/client-list.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/client-list.html",
 		"oF": 0
@@ -64,6 +68,7 @@
 	"/colophon.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/colophon.html",
 		"oF": 0
@@ -81,6 +86,7 @@
 	"/css/bulma.css.map": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/css/bulma.css.map",
 		"oF": 0
@@ -659,6 +665,347 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/img/clients/logos/atherton-park.png": {
+		"ft": 32768,
+		"iS": 19379,
+		"oA": 0,
+		"oAP": "/img/clients/logos/atherton-park.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/avishare.png": {
+		"ft": 32768,
+		"iS": 20484,
+		"oA": 0,
+		"oAP": "/img/clients/logos/avishare.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/bumbles.png": {
+		"ft": 32768,
+		"iS": 25212,
+		"oA": 0,
+		"oAP": "/img/clients/logos/bumbles.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/by-the-people.png": {
+		"ft": 32768,
+		"iS": 18087,
+		"oA": 0,
+		"oAP": "/img/clients/logos/by-the-people.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/create-room.png": {
+		"ft": 32768,
+		"iS": 13235,
+		"oA": 0,
+		"oAP": "/img/clients/logos/create-room.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/dj-harry-cross.png": {
+		"ft": 32768,
+		"iS": 42674,
+		"oA": 0,
+		"oAP": "/img/clients/logos/dj-harry-cross.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/downtown-real-estate.png": {
+		"ft": 32768,
+		"iS": 19816,
+		"oA": 0,
+		"oAP": "/img/clients/logos/downtown-real-estate.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/dw-fisk.png": {
+		"ft": 32768,
+		"iS": 14119,
+		"oA": 0,
+		"oAP": "/img/clients/logos/dw-fisk.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/eromas.png": {
+		"ft": 32768,
+		"iS": 36964,
+		"oA": 0,
+		"oAP": "/img/clients/logos/eromas.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/esmart-tax.png": {
+		"ft": 32768,
+		"iS": 22714,
+		"oA": 0,
+		"oAP": "/img/clients/logos/esmart-tax.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/everest-builders.png": {
+		"ft": 32768,
+		"iS": 15562,
+		"oA": 0,
+		"oAP": "/img/clients/logos/everest-builders.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/foxwood.png": {
+		"ft": 32768,
+		"iS": 135669,
+		"oA": 0,
+		"oAP": "/img/clients/logos/foxwood.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/frameworks.png": {
+		"ft": 32768,
+		"iS": 25756,
+		"oA": 0,
+		"oAP": "/img/clients/logos/frameworks.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/greatest-snow.png": {
+		"ft": 32768,
+		"iS": 24531,
+		"oA": 0,
+		"oAP": "/img/clients/logos/greatest-snow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/grow-love-gardens.png": {
+		"ft": 32768,
+		"iS": 59399,
+		"oA": 0,
+		"oAP": "/img/clients/logos/grow-love-gardens.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/katies-secret-gardens.png": {
+		"ft": 32768,
+		"iS": 39191,
+		"oA": 0,
+		"oAP": "/img/clients/logos/katies-secret-gardens.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/kaya.png": {
+		"ft": 32768,
+		"iS": 40848,
+		"oA": 0,
+		"oAP": "/img/clients/logos/kaya.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/linkxstar.png": {
+		"ft": 32768,
+		"iS": 15797,
+		"oA": 0,
+		"oAP": "/img/clients/logos/linkxstar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/mercury-fasteners.png": {
+		"ft": 32768,
+		"iS": 20546,
+		"oA": 0,
+		"oAP": "/img/clients/logos/mercury-fasteners.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/metro.png": {
+		"ft": 32768,
+		"iS": 24829,
+		"oA": 0,
+		"oAP": "/img/clients/logos/metro.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/new-york-public-library.png": {
+		"ft": 32768,
+		"iS": 24739,
+		"oA": 0,
+		"oAP": "/img/clients/logos/new-york-public-library.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/open-hands-legal.png": {
+		"ft": 32768,
+		"iS": 20170,
+		"oA": 0,
+		"oAP": "/img/clients/logos/open-hands-legal.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/porcupine-ridge.png": {
+		"ft": 32768,
+		"iS": 17904,
+		"oA": 0,
+		"oAP": "/img/clients/logos/porcupine-ridge.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/redman.png": {
+		"ft": 32768,
+		"iS": 24836,
+		"oA": 0,
+		"oAP": "/img/clients/logos/redman.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/single-percent.png": {
+		"ft": 32768,
+		"iS": 17676,
+		"oA": 0,
+		"oAP": "/img/clients/logos/single-percent.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/teal-drones.png": {
+		"ft": 32768,
+		"iS": 10394,
+		"oA": 0,
+		"oAP": "/img/clients/logos/teal-drones.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/the-grove.png": {
+		"ft": 32768,
+		"iS": 19706,
+		"oA": 0,
+		"oAP": "/img/clients/logos/the-grove.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/uncanny-chronicle.png": {
+		"ft": 32768,
+		"iS": 26335,
+		"oA": 0,
+		"oAP": "/img/clients/logos/uncanny-chronicle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/unisource.png": {
+		"ft": 32768,
+		"iS": 14130,
+		"oA": 0,
+		"oAP": "/img/clients/logos/unisource.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/veritas.png": {
+		"ft": 32768,
+		"iS": 22476,
+		"oA": 0,
+		"oAP": "/img/clients/logos/veritas.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/clients/logos/wine-spine.png": {
+		"ft": 32768,
+		"iS": 11073,
+		"oA": 0,
+		"oAP": "/img/clients/logos/wine-spine.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/img/clients/lomm/lomm-stationery-1.jpg": {
 		"ft": 16384,
@@ -1341,11 +1688,13 @@
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
 		"oF": 0
 		},
 	"/js/site-min.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1356,6 +1705,7 @@
 		"tS": 0
 		},
 	"/js/site.js": {
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1368,6 +1718,7 @@
 	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/LICENSE",
 		"oF": 0
@@ -1375,6 +1726,7 @@
 	"/menu-test.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/menu-test.html",
 		"oF": 0
@@ -1390,6 +1742,7 @@
 	"/play.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/play.html",
 		"oF": 0
@@ -1397,6 +1750,7 @@
 	"/play/36-days.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/play/36-days.html",
 		"oF": 0
@@ -1404,6 +1758,7 @@
 	"/play/elements.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/play/elements.html",
 		"oF": 0
@@ -1411,6 +1766,7 @@
 	"/play/laid-lines.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/play/laid-lines.html",
 		"oF": 0
@@ -1418,6 +1774,7 @@
 	"/play/platonic-solids.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/play/platonic-solids.html",
 		"oF": 0
@@ -1430,6 +1787,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/README.html",
 		"oF": 0,
@@ -2051,6 +2409,7 @@
 	"/think.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/think.html",
 		"oF": 0
@@ -2058,6 +2417,7 @@
 	"/think/active-passive.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/think/active-passive.html",
 		"oF": 0
@@ -2065,6 +2425,7 @@
 	"/think/qualitism.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/think/qualitism.html",
 		"oF": 0
@@ -2072,6 +2433,7 @@
 	"/work.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work.html",
 		"oF": 0
@@ -2079,6 +2441,7 @@
 	"/work/aiga-100-show-09.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/aiga-100-show-09.html",
 		"oF": 0
@@ -2086,6 +2449,7 @@
 	"/work/backcountry.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/backcountry.html",
 		"oF": 0
@@ -2093,20 +2457,23 @@
 	"/work/cotopaxi-questival.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/cotopaxi-questival.html",
 		"oF": 0
 		},
-	"/work/dc-Shoes.html": {
+	"/work/dc-shoes.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
-		"oAP": "/work/dc-Shoes.html",
+		"oAP": "/work/dc-shoes.html",
 		"oF": 0
 		},
 	"/work/dignity-health.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/dignity-health.html",
 		"oF": 0
@@ -2114,6 +2481,7 @@
 	"/work/epicure.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/epicure.html",
 		"oF": 0
@@ -2121,6 +2489,7 @@
 	"/work/fender-custom-shop.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/fender-custom-shop.html",
 		"oF": 0
@@ -2128,6 +2497,7 @@
 	"/work/fender-guitars.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/fender-guitars.html",
 		"oF": 0
@@ -2135,6 +2505,7 @@
 	"/work/harvard-university.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/harvard-university.html",
 		"oF": 0
@@ -2142,6 +2513,7 @@
 	"/work/i-line.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/i-line.html",
 		"oF": 0
@@ -2149,20 +2521,39 @@
 	"/work/intel.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/intel.html",
+		"oF": 0
+		},
+	"/work/logos.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/work/logos.html",
 		"oF": 0
 		},
 	"/work/lomm.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/lomm.html",
+		"oF": 0
+		},
+	"/work/nika.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/work/nika.html",
 		"oF": 0
 		},
 	"/work/ore.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/ore.html",
 		"oF": 0
@@ -2170,6 +2561,7 @@
 	"/work/remity.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/remity.html",
 		"oF": 0
@@ -2177,6 +2569,7 @@
 	"/work/rodan-fields.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/rodan-fields.html",
 		"oF": 0
@@ -2184,6 +2577,7 @@
 	"/work/seven-days.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/seven-days.html",
 		"oF": 0
@@ -2191,20 +2585,39 @@
 	"/work/so-good.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/so-good.html",
+		"oF": 0
+		},
+	"/work/sylph-sans.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/work/sylph-sans.html",
 		"oF": 0
 		},
 	"/work/the-grand-america-hotel.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/the-grand-america-hotel.html",
+		"oF": 0
+		},
+	"/work/tribune.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/work/tribune.html",
 		"oF": 0
 		},
 	"/work/united-way-toronto.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/united-way-toronto.html",
 		"oF": 0
@@ -2212,6 +2625,7 @@
 	"/work/verizon-wireless.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/verizon-wireless.html",
 		"oF": 0
@@ -2219,6 +2633,7 @@
 	"/work/you-and-yours-distilling.html": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/work/you-and-yours-distilling.html",
 		"oF": 0
@@ -2237,6 +2652,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -2248,6 +2664,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -2318,6 +2735,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -2339,6 +2762,36 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
+			"active": 0
+			},
 		"modules-amd": {
 			"active": 0
 			},
@@ -2349,6 +2802,9 @@
 			"active": 0
 			},
 		"modules-umd": {
+			"active": 0
+			},
+		"named-capturing-groups-regex": {
 			"active": 0
 			},
 		"new-target": {
@@ -2384,7 +2840,13 @@
 		"parameters": {
 			"active": 0
 			},
+		"partial-application": {
+			"active": 0
+			},
 		"pipeline-operator": {
+			"active": 0
+			},
+		"private-methods": {
 			"active": 0
 			},
 		"property-literals": {
@@ -2420,10 +2882,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -2467,11 +2935,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -2616,6 +3083,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -2717,6 +3185,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3068,6 +3540,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-import-assign": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-inline-comments": {
 			"active": 0,
 			"optionString": ""
@@ -3372,6 +3848,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -3472,6 +3952,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -3483,6 +3967,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -4034,6 +4522,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -4055,6 +4544,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -4077,7 +4567,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -4089,7 +4580,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -4116,6 +4606,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -4125,7 +4616,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -4146,7 +4638,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -4175,7 +4668,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -4218,8 +4712,16 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
@@ -4263,16 +4765,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -4284,14 +4790,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4314,6 +4820,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -4339,10 +4849,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -4351,13 +4857,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -4369,6 +4875,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -4391,13 +4901,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -4406,10 +4916,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -4433,6 +4939,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -4467,6 +4977,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -4476,6 +4990,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4503,15 +5021,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
